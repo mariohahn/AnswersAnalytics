@@ -1,0 +1,6 @@
+framework module AnalyticsProvider {
+  umbrella header "AnalyticsProvider-umbrella.h"
+
+  export *
+  module * { export * }
+}
